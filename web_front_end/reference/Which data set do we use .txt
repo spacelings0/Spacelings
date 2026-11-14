@@ -1,0 +1,14 @@
+NASA POWER
+NASA POWER: Agroclimatology & Meteorological Data: NASA POWER provides accessible solar, meteorological, and climatology datasets used widely in agriculture. The datasets include temperature, humidity, radiation, and derived indicators that help estimate crop water use, growing‑season conditions, frost risk, and climate suitability for potential rotation crops.
+
+Landsat NDVI via Earth Engine
+Landsat and MODIS/VIIRS: Reflectance, NDVI, Vegetation Indices: Landsat (30‑meter resolution) and MODIS/VIIRS (250–1000 m) provide corrected reflectance, NDVI, vegetation indices, and indicators of plant stress, bare ground, and seasonal change. These datasets allow participants to map crop vigor, track seasonal transitions, detect high‑stress periods, and compare rotation options visually.
+
+GPM IMERG
+Global Precipitation Measurement (GPM) & IMERG: The GPM mission and its IMERG product provide global precipitation rate and accumulation estimates. These help assess rainfall reliability, extreme‑storm frequency, erosion risk, water input to soils, and long‑term trends in field moisture. IMERG is valuable for comparing rotation strategies under different precipitation scenarios. (Worldview IMERG layers can be downloaded directly as high‑resolution images.)
+
+SMAP soil moisture
+Soil Moisture Active Passive (SMAP): SMAP provides global measurements of surface soil moisture and freeze/thaw state, collected every 2–3 days. Soil‑moisture information helps identify drought stress, water availability, infiltration potential, and early crop‑stress signals. These data are valuable for evaluating rotation crops that could improve water efficiency, soil conditions, or drought resilience.
+
+ECOSTRESS and SRTM
+ECOSTRESS: ECOSTRESS measures land‑surface temperature (LST) and evapotranspiration (ET) at high spatial resolution. This helps detect hotspots of plant stress, heat exposure, shallow‑root vulnerability, and crop‑water demand. It is particularly useful for identifying when current crops may be becoming more vulnerable and for mapping field‑level microclimate differences.

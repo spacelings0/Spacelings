@@ -1,0 +1,57 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Next.js Build Output
+/.next/
+/out/
+/build
+/dist
+
+# Production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment Variables & Local Configs
+.env
+.env*.local
+.env.production
+.env.development
+
+# TypeScript & Cache
+*.tsbuildinfo
+next-env.d.ts.bak
+
+# Vercel
+.vercel
+
+# Testing & Coverage
+/coverage
+.nyc_output
+
+# OS & Editor Files
+.DS_Store
+*.pem
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor Specific
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+*.swp
+*.swo
